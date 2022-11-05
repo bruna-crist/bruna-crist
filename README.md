@@ -3,4 +3,4 @@
 
 - Atualmente curso Ciência da Computação.
 - Estou aprendendo Java.
-- 📫 Contato: brunacristinabandao43@gmail
+- 📫 Contato: brunacristinabrandao43@gmail
