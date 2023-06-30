@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Bruna!👋
 
 - 📚Atualmente cursando Ciência da Computação.
-- 💻Estou aprendendo Java.
+- 💻Estou aprendendo Java, php, javaScript, html, css.
 - 📫 Contato: brunacristinabrandao43@gmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruna.bc__)
