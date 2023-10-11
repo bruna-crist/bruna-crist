@@ -1,6 +1,7 @@
 ### Olá! Eu me chamo Bruna!👋
 
 - 📚Atualmente cursando Ciência da Computação.
+- 📚Curso Programador Full Stack em andamento.
 - 💻 Java, php, javaScript, html, css.
 - 📱Estou aprendendo Desenvolvimento Android.
 - 📫 Contato: brunacristinabrandao43@gmail.com
