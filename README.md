@@ -4,7 +4,7 @@
 - 📚Curso Programador Full Stack em andamento.
 - 💻 Java, php, javaScript, html, css.
 - 📱Estou aprendendo Desenvolvimento Android.
-- 📫 Contato: brunacristinabrandao43@gmail.com
+- 📫 Contatos:
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruna-crist)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruna.bc__)
