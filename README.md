@@ -1,9 +1,9 @@
 ### Olá! Eu me chamo Bruna!👋
 
 - 📚Atualmente cursando Ciência da Computação.
-- 📚Curso Programador Full Stack em andamento.
+- 📚 Programador Full Stack.
 - 💻 Java, php, javaScript, html, css.
-- 📱Estou aprendendo Desenvolvimento Android.
+- 📱 Desenvolvimento Android.
 - 📫 Contatos:
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruna-crist)
