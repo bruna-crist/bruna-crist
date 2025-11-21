@@ -21,7 +21,7 @@ Sou uma **desenvolvedora apaixonada por tecnologia** e em constante evolução! 
 
 </div>
 
-## 💻 Tech Stack
+##  Tech Stack
 
 |  Frontend |  Backend |
 | :--- | ---: |
