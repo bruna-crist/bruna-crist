@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Olá! Eu sou a Bruna Cristina
+# 👋Olá! Eu me chamo Bruna!
 
 ### Desenvolvedora Full Stack | Estudante de Ciência da Computação 💻
 
@@ -28,7 +28,7 @@ Sou uma **desenvolvedora apaixonada por tecnologia** e em constante evolução! 
 ### Mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### 🛠️ Ferramentas
+### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
