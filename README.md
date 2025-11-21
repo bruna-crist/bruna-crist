@@ -13,8 +13,6 @@ Sou uma **desenvolvedora apaixonada por tecnologia** e em constante evolução! 
 
 ---
 
-## Vamos Conectar?
-
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruna-crist)
