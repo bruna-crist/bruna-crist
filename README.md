@@ -76,7 +76,8 @@ Sou uma **desenvolvedora apaixonada por tecnologia** e em constante evolução! 
 
 📚 **Ciência da Computação** - Em andamento  
 💻 **Desenvolvimento Full Stack** - Aperfeiçoamento contínuo  
-📱 **Android Development** - Projetos práticos  
+📱 **Android Development** - Projetos práticos
+
 ---
 
 
