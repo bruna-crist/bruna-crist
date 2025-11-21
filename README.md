@@ -9,36 +9,22 @@
 </div>
 
 ---
+
 Sou uma **desenvolvedora apaixonada por tecnologia** e em constante evolução! Atualmente cursando **Ciência da Computação**, busco transformar ideias em código e criar soluções que impactam positivamente a vida das pessoas.
 
 ---
 
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruna-crist)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-cristina-a98101266/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brudevs)
-
-</div>
-
 ## 💻 Tech Stack
 
-|  Frontend |  Backend |
+| ⚙️ Backend | 🎨 Frontend |
 | :--- | ---: |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
 ### 📱 Mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-### 
-
----
-
-
 
 ---
 
@@ -73,11 +59,20 @@ Sou uma **desenvolvedora apaixonada por tecnologia** e em constante evolução! 
 
 📚 **Ciência da Computação** - Em andamento  
 💻 **Desenvolvimento Full Stack** - Aperfeiçoamento contínuo  
-📱 **Android Development** - Projetos práticos
+📱 **Android Development** - Projetos práticos  
 
 ---
 
+## Vamos Conectar?
 
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruna-crist)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-cristina-brand%C3%A3o-e-silva-a98101266/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brudevs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
+
+</div>
 
 ---
 
@@ -100,6 +95,4 @@ Sou uma **desenvolvedora apaixonada por tecnologia** e em constante evolução! 
 
 **💜 Obrigada pela visita!**
 
-⭐ *Se você gostou do meu perfil, considere dar uma estrela nos meus repositórios!*
-
-</div>
+⭐ *Se você gostou do meu perfil, considere dar uma estrela nos meus repositóri*
