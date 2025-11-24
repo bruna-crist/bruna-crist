@@ -80,11 +80,8 @@ Sou uma **desenvolvedora apaixonada por tecnologia** e em constante evolução! 
 
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bruna-crist&theme=dracula&hide_border=false)
+---
 
-</div>
 
 <div align="center">
 
