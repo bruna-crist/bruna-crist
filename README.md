@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&width=520&lines=👋Olá,+sou+a+Bruna!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&width=520&lines=👋Olá,+sou+a+Bruna!" />
 
 ### Desenvolvedora Back End | Graduada em Ciência da Computação 💻
 
@@ -18,8 +18,8 @@ Sou desenvolvedora em constante evolução, com foco em desenvolvimento backend 
 
 <div align="left">
   
-[![GitHub](https://img.shields.io/badge/GitHub-800080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruna-crist)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-cristina-a98101266/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEEnuNQBScXnXdmoCRSdySpeh2yrtwrruOM)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunadevb@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brudevs)
 
 ---
